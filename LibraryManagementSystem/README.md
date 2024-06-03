@@ -1,8 +1,5 @@
 **Library Management System**
-
-**Objective:**
-The Library Management System is designed to manage a library's operations, including books, members, and book issues. This project focuses on implementing CRUD operations for the system. I have created entities to represent the data and used DTOs to encapsulate the data being transferred.
-
+  
 **Operations**
 **1. Book:**
 
